@@ -1,5 +1,14 @@
 # SDLC
 
+Project located in M7 directory<br><br>
+
+M2/ Agile Team Charter, Scrum events, and Scrum Master Journal<br>
+M3/ Product Owner Journal, Usr Stories, and Basic List View Control Application<br>
+M4/ Test Cases, Tester Journal, Sample Slide Show Application<br>
+M5/ Product Application, Developer Journal<br>
+M6/ Communication Practices and Project Management<br>
+M7/ Scrum/Agile Presentation and Sprint review and Retrospective<br>
+
 # How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
 
 To interpret user needs, I have to have an understanding of what these needs are. Once I understand what the user wants to accomplish, I can begin developing the software to meet the specific requirements. This can be achieved by creating "user stories" that identify specific tasks/objectives that the software being developed should be able to do and also help to identify a definition of done for each of the tasks/objectives. 
