@@ -1,5 +1,7 @@
 # SDLC
 
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
 # Hello, and welcome to the SDLC Repository of my Academic Projects🖐️
 
 Learned the stages, principles, and best practices of the SDLC in an agile environment with a focus on developer and tester roles.<br><br>
