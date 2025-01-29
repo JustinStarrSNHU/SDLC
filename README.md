@@ -1,5 +1,7 @@
 # SDLC
 
+Learned the stages, principles, and best practices of the SDLC in an agile environment with a focus on developer and tester roles.<br><br>
+
 Project located in M7 directory<br><br>
 
 M2/ Agile Team Charter, Scrum events, and Scrum Master Journal<br>
