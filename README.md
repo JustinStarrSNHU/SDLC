@@ -8,7 +8,7 @@ Learned the stages, principles, and best practices of the SDLC in an agile envir
 
 Project located in M7 directory<br><br>
 
-- [📌 M2/ Agile Team Charter, Scrum events, and Scrum Master Journal] (https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M2)<br>
+- [📌 M2/ Agile Team Charter, Scrum events, and Scrum Master Journal] 👉 [Link 🔗] (https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M2)<br>
 M3/ Product Owner Journal, Usr Stories, and Basic List View Control Application<br>
 M4/ Test Cases, Tester Journal, Sample Slide Show Application<br>
 M5/ Product Application, Developer Journal<br>
