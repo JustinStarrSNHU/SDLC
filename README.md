@@ -8,12 +8,12 @@ Learned the stages, principles, and best practices of the SDLC in an agile envir
 
 Project located in M7 directory<br><br>
 
-> 📌 M2/ Agile Team Charter, Scrum events, and Scrum Master Journal 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M2)
-📌 M3/ Product Owner Journal, Usr Stories, and Basic List View Control Application 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M3)
-📌 M4/ Test Cases, Tester Journal, Sample Slide Show Application 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M4)
-📌 M5/ Product Application, Developer Journal 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M5)
-📌 M6/ Communication Practices and Project Management 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M6)
-📌 M7/ Scrum/Agile Presentation and Sprint review and Retrospective 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M7)
+> 📌 M2/ Agile Team Charter, Scrum events, and Scrum Master Journal 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M2)<br>
+📌 M3/ Product Owner Journal, Usr Stories, and Basic List View Control Application 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M3)<br>
+📌 M4/ Test Cases, Tester Journal, Sample Slide Show Application 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M4)<br>
+📌 M5/ Product Application, Developer Journal 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M5)<br>
+📌 M6/ Communication Practices and Project Management 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M6)<br>
+📌 M7/ Scrum/Agile Presentation and Sprint review and Retrospective 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/SDLC/tree/main/M7) <br>
 
 # How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
 
