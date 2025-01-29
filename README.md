@@ -1,6 +1,10 @@
 # SDLC
 
+# Hello, and welcome to the SDLC Repository of my Academic Projects🖐️
+
 Learned the stages, principles, and best practices of the SDLC in an agile environment with a focus on developer and tester roles.<br><br>
+
+# 📖 Table of Contents
 
 Project located in M7 directory<br><br>
 
